@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GTomasel
 - 👀 I’m interested in web development, technology, music, photography and video games!
-- 🌱 I’m Full Stack Develpment (MERN)
+- 🌱 I’m Full Stack Developer (MERN)
 - 📫 IG @fotomasel if you wanna see some pics
 
 <!---
